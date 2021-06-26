@@ -1,6 +1,8 @@
-Hello, welcome to jenkins...........!
-Start of CI-CD
-Push the changes
-Build the changes
-Test the pipeline
 
+<html>
+  <head><title>Include Home Page</title></head>
+  <body>
+  <H2>Contents of html page display here:</H2>
+  <%@ include file="home.html" %>
+  </body>
+</html>
